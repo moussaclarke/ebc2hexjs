@@ -2,7 +2,7 @@
 Convert EBC to Hex colour codes.
 
 ## Purpose ##
-This is a very rough EBC to hex colour converter, developed for the front end of my Oat Soda Brewery ERP and for Tiny Rebel Brewing's Online Export Catalogue. It gives some quick and dirty visual feedback for EBC (European Brewing Convention) colour measurement amounts.
+This is a very rough EBC to hex colour converter, developed for the front end of my Oat Soda Brewery ERP and for Tiny Rebel Brewing's Online Export Catalogue, to give some quick and dirty visual feedback for EBC (European Brewing Convention) colour measurement amounts.
 
 It's not trying to be a scientifically accurate colour representation. That would need viewing conditions properly defined, and is arguably impossible anyway due to display limitations.
 
