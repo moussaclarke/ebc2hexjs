@@ -28,7 +28,8 @@ var sat = 0.5; // saturation level, a number between 0 and 1
 var ebccolour = ebc2hex.convert(ebc,sat); // ta da 
 ```
 
-That's pretty much it. Have a look at the included example too.
+That's pretty much it. Have a look at the included [example](/example) too:
+https://moussaclarke.github.io/ebc2hexjs/example/
 
 ## To do, or not to do ##
 This could very easily be extended to handle SRM or Lovibond to Hex, or to output decimal RGB values, or to convert between SRM, Lovibond & EBC, but I didn't really have any need for the specific projects I'm working on. If you're after something (much) more full featured, check out [Brauhaus](https://github.com/homebrewing/brauhausjs), which handles a whole host of brewing calculations.
